@@ -1,0 +1,38 @@
+# Arquivos de Dados (SSP-SP)
+*.xlsx
+*.xls
+*.csv
+naturezas_permitidas.json
+objetos_bo_campinas_2025.json
+
+# Ambiente Virtual e Dependências
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+
+# Python (Cache e Execução)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Sistema Operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
